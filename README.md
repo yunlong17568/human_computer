@@ -1,2 +1,2 @@
-# human_computer
-create a computer whick think human
+# 模拟人的思维的计算器
+创建一个计算器，这个计算器的整个计算过程和人类计算过程一致
