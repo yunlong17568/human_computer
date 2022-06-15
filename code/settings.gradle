@@ -1,1 +1,8 @@
 rootProject.name = "human_computer"
+# 定义基础数据结构和逻辑模型
+include ":compute_contract"
+# 核心功能，提供表达式解析，计算过程
+include ":compute_core"
+# 启动人类计算器界面
+# 1. console
+include ":launcher"
